@@ -1,0 +1,6 @@
+[submodule "vendor/qsyncable"]
+	path = vendor/qsyncable
+	url = https://github.com/benlau/qsyncable.git
+[submodule "vendor/SortFilterProxyModel"]
+	path = vendor/SortFilterProxyModel
+	url = https://github.com/oKcerG/SortFilterProxyModel.git
